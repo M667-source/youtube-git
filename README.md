@@ -8,3 +8,5 @@ segundo commit
 
 
 cler
+salir
+q
